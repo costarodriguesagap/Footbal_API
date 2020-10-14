@@ -1,0 +1,149 @@
+Year;League              ;Position;Team                          ;Games;Wins;Draws;Defeats;Goals Scored;Conceded Goals;Goals Difference
+2019;Premiere League     ; 1      ;Liverpool FC                  ;38   ;32  ; 3   ; 3     ; 85         ; 33           ;  52
+2019;Premiere League     ; 2      ;Manchester City FC            ;38   ;26  ; 3   ; 9     ;102         ; 35           ;  67
+2019;Premiere League     ; 3      ;Manchester United FC          ;38   ;18  ;12   ; 8     ; 66         ; 36           ;  30
+2019;Premiere League     ; 4      ;Chelsea FC                    ;38   ;20  ; 6   ;12     ; 69         ; 54           ;  15
+2019;Premiere League     ; 5      ;Leicester City FC             ;38   ;18  ; 8   ;12     ; 67         ; 41           ;  26
+2019;Premiere League     ; 6      ;Tottenham Hotspur FC          ;38   ;16  ;11   ;11     ; 61         ; 47           ;  14
+2019;Premiere League     ; 7      ;Wolverhampton Wanderers FC    ;38   ;15  ;14   ; 9     ; 51         ; 40           ;  11
+2019;Premiere League     ; 8      ;Arsenal FC                    ;38   ;14  ;14   ;10     ; 56         ; 48           ;   8
+2019;Premiere League     ; 9      ;Sheffield United FC           ;38   ;14  ;12   ;12     ; 39         ; 39           ;   0
+2019;Premiere League     ;10      ;Burnley FC                    ;38   ;15  ; 9   ;14     ; 43         ; 50           ;  -7
+2019;Premiere League     ;11      ;Southampton FC                ;38   ;15  ; 7   ;16     ; 51         ; 60           ;  -9
+2019;Premiere League     ;12      ;Everton FC                    ;38   ;13  ;10   ;15     ; 44         ; 56           ; -12
+2019;Premiere League     ;13      ;Newcastle United FC           ;38   ;11  ;11   ;16     ; 38         ; 58           ; -20
+2019;Premiere League     ;14      ;Crystal Palace FC             ;38   ;11  ;10   ;17     ; 31         ; 50           ; -19
+2019;Premiere League     ;15      ;Brighton & Hove Albion FC     ;38   ; 9  ;14   ;15     ; 39         ; 54           ; -15
+2019;Premiere League     ;16      ;West Ham United FC            ;38   ;10  ; 9   ;19     ; 49         ; 62           ; -13
+2019;Premiere League     ;17      ;Aston Villa FC                ;38   ; 9  ; 8   ;21     ; 41         ; 67           ; -26
+2019;Premiere League     ;18      ;AFC Bournemouth               ;38   ; 9  ; 7   ;22     ; 40         ; 65           ; -25
+2019;Premiere League     ;19      ;Watford FC                    ;38   ; 8  ;10   ;20     ; 36         ; 64           ; -28
+2019;Premiere League     ;20      ;Norwich City FC               ;38   ; 5  ; 6   ;27     ; 26         ; 75           ; -49
+2019;Ligue 1             ; 1      ;Paris Saint-Germain FC        ;27   ;22  ; 2   ; 3     ; 75         ; 24           ;  51
+2019;Ligue 1             ; 2      ;Olympique de Marseille        ;28   ;16  ; 8   ; 4     ; 41         ; 29           ;  12
+2019;Ligue 1             ; 3      ;Stade Rennais FC 1901         ;28   ;15  ; 5   ; 8     ; 38         ; 24           ;  14
+2019;Ligue 1             ; 4      ;Lille OSC                     ;28   ;15  ; 4   ; 9     ; 35         ; 27           ;   8
+2019;Ligue 1             ; 5      ;Stade de Reims                ;28   ;10  ;11   ; 7     ; 26         ; 21           ;   5
+2019;Ligue 1             ; 6      ;OGC Nice                      ;28   ;11  ; 8   ; 9     ; 41         ; 38           ;   3
+2019;Ligue 1             ; 7      ;Olympique Lyonnais            ;28   ;11  ; 7   ;10     ; 42         ; 27           ;  15
+2019;Ligue 1             ; 8      ;Montpellier HSC               ;28   ;11  ; 7   ;10     ; 35         ; 34           ;   1
+2019;Ligue 1             ; 9      ;AS Monaco FC                  ;28   ;11  ; 7   ;10     ; 44         ; 44           ;   0
+2019;Ligue 1             ;10      ;Angers SCO                    ;28   ;11  ; 6   ;11     ; 28         ; 33           ;  -5
+2019;Ligue 1             ;11      ;RC Strasbourg Alsace          ;27   ;11  ; 5   ;11     ; 32         ; 32           ;   0
+2019;Ligue 1             ;12      ;FC Girondins de Bordeaux      ;28   ; 9  ;10   ; 9     ; 40         ; 34           ;   6
+2019;Ligue 1             ;13      ;FC Nantes                     ;28   ;11  ; 4   ;13     ; 28         ; 31           ;  -3
+2019;Ligue 1             ;14      ;Stade Brestois 29             ;28   ; 8  ;10   ;10     ; 34         ; 37           ;  -3
+2019;Ligue 1             ;15      ;FC Metz                       ;28   ; 8  ;10   ;10     ; 27         ; 35           ;  -8
+2019;Ligue 1             ;16      ;Dijon Football Côte d'Or      ;28   ; 7  ; 9   ;12     ; 27         ; 37           ; -10
+2019;Ligue 1             ;17      ;AS Saint-Étienne              ;28   ; 8  ; 6   ;14     ; 29         ; 45           ; -16
+2019;Ligue 1             ;18      ;Nîmes Olympique               ;28   ; 7  ; 6   ;15     ; 29         ; 44           ; -15
+2019;Ligue 1             ;19      ;Amiens SC                     ;28   ; 4  ;11   ;13     ; 31         ; 50           ; -19
+2019;Ligue 1             ;20      ;Toulouse FC                   ;28   ; 3  ; 4   ;21     ; 22         ; 58           ; -36
+2019;1. Bundesliga       ; 1      ;FC Bayern München             ;34   ;26  ; 4   ; 4     ;100         ; 32           ;  68
+2019;1. Bundesliga       ; 2      ;BV Borussia 09 Dortmund       ;34   ;21  ; 6   ; 7     ; 84         ; 41           ;  43
+2019;1. Bundesliga       ; 3      ;RB Leipzig                    ;34   ;18  ;12   ; 4     ; 81         ; 37           ;  44
+2019;1. Bundesliga       ; 4      ;Borussia Mönchengladbach      ;34   ;20  ; 5   ; 9     ; 66         ; 40           ;  26
+2019;1. Bundesliga       ; 5      ;Bayer 04 Leverkusen           ;34   ;19  ; 6   ; 9     ; 61         ; 44           ;  17
+2019;1. Bundesliga       ; 6      ;TSG 1899 Hoffenheim           ;34   ;15  ; 7   ;12     ; 53         ; 53           ;   0
+2019;1. Bundesliga       ; 7      ;VfL Wolfsburg                 ;34   ;13  ;10   ;11     ; 48         ; 46           ;   2
+2019;1. Bundesliga       ; 8      ;SC Freiburg                   ;34   ;13  ; 9   ;12     ; 48         ; 47           ;   1
+2019;1. Bundesliga       ; 9      ;Eintracht Frankfurt           ;34   ;13  ; 6   ;15     ; 59         ; 60           ;  -1
+2019;1. Bundesliga       ;10      ;Hertha BSC                    ;34   ;11  ; 8   ;15     ; 48         ; 59           ; -11
+2019;1. Bundesliga       ;11      ;1. FC Union Berlin            ;34   ;12  ; 5   ;17     ; 41         ; 58           ; -17
+2019;1. Bundesliga       ;12      ;FC Schalke 04                 ;34   ; 9  ;12   ;13     ; 38         ; 58           ; -20
+2019;1. Bundesliga       ;13      ;1. FSV Mainz 05               ;34   ;11  ; 4   ;19     ; 44         ; 65           ; -21
+2019;1. Bundesliga       ;14      ;1. FC Köln                    ;34   ;10  ; 6   ;18     ; 51         ; 69           ; -18
+2019;1. Bundesliga       ;15      ;FC Augsburg                   ;34   ; 9  ; 9   ;16     ; 45         ; 63           ; -18
+2019;1. Bundesliga       ;16      ;SV Werder Bremen              ;34   ; 8  ; 7   ;19     ; 42         ; 69           ; -27
+2019;1. Bundesliga       ;17      ;TSV Fortuna 95 Düsseldorf     ;34   ; 6  ;12   ;16     ; 36         ; 67           ; -31
+2019;1. Bundesliga       ;18      ;SC Paderborn 07               ;34   ; 4  ; 8   ;22     ; 37         ; 74           ; -37
+2019;Serie A             ; 1      ;Juventus FC                   ;38   ;26  ; 5   ; 7     ; 76         ; 43           ;  33
+2019;Serie A             ; 2      ;FC Internazionale Milano      ;38   ;24  ;10   ; 4     ; 81         ; 36           ;  45
+2019;Serie A             ; 3      ;Atalanta BC                   ;38   ;23  ; 9   ; 6     ; 98         ; 48           ;  50
+2019;Serie A             ; 4      ;SS Lazio                      ;38   ;24  ; 6   ; 8     ; 79         ; 42           ;  37
+2019;Serie A             ; 5      ;AS Roma                       ;38   ;21  ; 7   ;10     ; 77         ; 51           ;  26
+2019;Serie A             ; 6      ;AC Milan                      ;38   ;19  ; 9   ;10     ; 63         ; 46           ;  17
+2019;Serie A             ; 7      ;SSC Napoli                    ;38   ;18  ; 8   ;12     ; 61         ; 50           ;  11
+2019;Serie A             ; 8      ;US Sassuolo Calcio            ;38   ;14  ; 9   ;15     ; 69         ; 63           ;   6
+2019;Serie A             ; 9      ;Hellas Verona FC              ;38   ;12  ;13   ;13     ; 47         ; 51           ;  -4
+2019;Serie A             ;10      ;ACF Fiorentina                ;38   ;12  ;13   ;13     ; 51         ; 48           ;   3
+2019;Serie A             ;11      ;Parma Calcio 1913             ;38   ;14  ; 7   ;17     ; 56         ; 57           ;  -1
+2019;Serie A             ;12      ;Bologna FC 1909               ;38   ;12  ;11   ;15     ; 52         ; 65           ; -13
+2019;Serie A             ;13      ;Udinese Calcio                ;38   ;12  ; 9   ;17     ; 37         ; 51           ; -14
+2019;Serie A             ;14      ;Cagliari Calcio               ;38   ;11  ;12   ;15     ; 52         ; 56           ;  -4
+2019;Serie A             ;15      ;UC Sampdoria                  ;38   ;12  ; 6   ;20     ; 48         ; 65           ; -17
+2019;Serie A             ;16      ;Torino FC                     ;38   ;11  ; 7   ;20     ; 46         ; 68           ; -22
+2019;Serie A             ;17      ;Genoa CFC                     ;38   ;10  ; 9   ;19     ; 47         ; 73           ; -26
+2019;Serie A             ;18      ;US Lecce                      ;38   ; 9  ; 8   ;21     ; 52         ; 85           ; -33
+2019;Serie A             ;19      ;Brescia Calcio                ;38   ; 6  ; 7   ;25     ; 35         ; 79           ; -44
+2019;Serie A             ;20      ;SPAL 2013                     ;38   ; 5  ; 5   ;28     ; 27         ; 77           ; -50
+2019;Primeira Liga       ; 1      ;FC Porto                      ;34   ;26  ; 4   ; 4     ; 74         ; 22           ;  52
+2019;Primeira Liga       ; 2      ;Sport Lisboa e Benfica        ;34   ;24  ; 5   ; 5     ; 71         ; 26           ;  45
+2019;Primeira Liga       ; 3      ;Sporting Clube de Braga       ;34   ;18  ; 6   ;10     ; 61         ; 40           ;  21
+2019;Primeira Liga       ; 4      ;Sporting Clube de Portugal    ;34   ;18  ; 6   ;10     ; 49         ; 34           ;  15
+2019;Primeira Liga       ; 5      ;Rio Ave FC                    ;34   ;15  ;10   ; 9     ; 48         ; 36           ;  12
+2019;Primeira Liga       ; 6      ;FC Famalicão                  ;34   ;14  ;12   ; 8     ; 53         ; 51           ;   2
+2019;Primeira Liga       ; 7      ;Vitória SC                    ;34   ;13  ;11   ;10     ; 53         ; 38           ;  15
+2019;Primeira Liga       ; 8      ;Moreirense FC                 ;34   ;10  ;13   ;11     ; 42         ; 44           ;  -2
+2019;Primeira Liga       ; 9      ;CD Santa Clara                ;34   ;11  ;10   ;13     ; 36         ; 41           ;  -5
+2019;Primeira Liga       ;10      ;Gil Vicente FC                ;34   ;11  ;10   ;13     ; 40         ; 44           ;  -4
+2019;Primeira Liga       ;11      ;CS Marítimo                   ;34   ; 9  ;12   ;13     ; 34         ; 42           ;  -8
+2019;Primeira Liga       ;12      ;Boavista FC                   ;34   ;10  ; 9   ;15     ; 28         ; 39           ; -11
+2019;Primeira Liga       ;13      ;FC Paços de Ferreira          ;34   ;11  ; 6   ;17     ; 36         ; 52           ; -16
+2019;Primeira Liga       ;14      ;CD Tondela                    ;34   ; 9  ; 9   ;16     ; 30         ; 44           ; -14
+2019;Primeira Liga       ;15      ;Os Belenenses Futebol         ;34   ; 9  ; 8   ;17     ; 27         ; 54           ; -27
+2019;Primeira Liga       ;16      ;Vitória FC                    ;34   ; 7  ;13   ;14     ; 27         ; 43           ; -16
+2019;Primeira Liga       ;17      ;Portimonense SC               ;34   ; 7  ;12   ;15     ; 30         ; 45           ; -15
+2019;Primeira Liga       ;18      ;CD Aves                       ;34   ; 5  ; 2   ;27     ; 24         ; 68           ; -44
+2019;Primera Division    ; 1      ;Real Madrid CF                ;38   ;26  ; 9   ; 3     ; 70         ; 25           ;  45
+2019;Primera Division    ; 2      ;FC Barcelona                  ;38   ;25  ; 7   ; 6     ; 86         ; 38           ;  48
+2019;Primera Division    ; 3      ;Club Atlético de Madrid       ;38   ;18  ;16   ; 4     ; 51         ; 27           ;  24
+2019;Primera Division    ; 4      ;Sevilla FC                    ;38   ;19  ;13   ; 6     ; 54         ; 34           ;  20
+2019;Primera Division    ; 5      ;Villarreal CF                 ;38   ;18  ; 6   ;14     ; 63         ; 49           ;  14
+2019;Primera Division    ; 6      ;Real Sociedad de Fútbol       ;38   ;16  ; 8   ;14     ; 56         ; 48           ;   8
+2019;Primera Division    ; 7      ;Granada CF                    ;38   ;16  ; 8   ;14     ; 52         ; 45           ;   7
+2019;Primera Division    ; 8      ;Getafe CF                     ;38   ;14  ;12   ;12     ; 43         ; 37           ;   6
+2019;Primera Division    ; 9      ;Valencia CF                   ;38   ;14  ;11   ;13     ; 46         ; 53           ;  -7
+2019;Primera Division    ;10      ;CA Osasuna                    ;38   ;13  ;13   ;12     ; 46         ; 54           ;  -8
+2019;Primera Division    ;11      ;Athletic Club                 ;38   ;13  ;12   ;13     ; 41         ; 38           ;   3
+2019;Primera Division    ;12      ;Levante UD                    ;38   ;14  ; 7   ;17     ; 47         ; 53           ;  -6
+2019;Primera Division    ;13      ;Real Valladolid CF            ;38   ; 9  ;15   ;14     ; 32         ; 43           ; -11
+2019;Primera Division    ;14      ;SD Eibar                      ;38   ;11  ; 9   ;18     ; 39         ; 56           ; -17
+2019;Primera Division    ;15      ;Real Betis Balompié           ;38   ;10  ;11   ;17     ; 48         ; 60           ; -12
+2019;Primera Division    ;16      ;Deportivo Alavés              ;38   ;10  ; 9   ;19     ; 34         ; 59           ; -25
+2019;Primera Division    ;17      ;RC Celta de Vigo              ;38   ; 7  ;16   ;15     ; 37         ; 49           ; -12
+2019;Primera Division    ;18      ;CD Leganés                    ;38   ; 8  ;12   ;18     ; 30         ; 51           ; -21
+2019;Primera Division    ;19      ;RCD Mallorca                  ;38   ; 9  ; 6   ;23     ; 40         ; 65           ; -25
+2019;Primera Division    ;20      ;RCD Espanyol de Barcelona     ;38   ; 5  ;10   ;23     ; 27         ; 58           ; -31
+2019;Champions-League    ; 1      ;Paris Saint-Germain FC        ; 6   ; 5  ; 1   ; 0     ; 17         ;  2           ;  15
+2019;Champions-League    ; 2      ;Real Madrid CF                ; 6   ; 3  ; 2   ; 1     ; 14         ;  8           ;   6
+2019;Champions-League    ; 3      ;Club Brugge KV                ; 6   ; 0  ; 3   ; 3     ;  4         ; 12           ;  -8
+2019;Champions-League    ; 4      ;Galatasaray SK                ; 6   ; 0  ; 2   ; 4     ;  1         ; 14           ; -13
+2019;Champions-League    ; 1      ;FC Bayern München             ; 6   ; 6  ; 0   ; 0     ; 24         ;  5           ;  19
+2019;Champions-League    ; 2      ;Tottenham Hotspur FC          ; 6   ; 3  ; 1   ; 2     ; 18         ; 14           ;   4
+2019;Champions-League    ; 3      ;PAE Olympiakos SFP            ; 6   ; 1  ; 1   ; 4     ;  8         ; 14           ;  -6
+2019;Champions-League    ; 4      ;FK Crvena Zvezda              ; 6   ; 1  ; 0   ; 5     ;  3         ; 20           ; -17
+2019;Champions-League    ; 1      ;Manchester City FC            ; 6   ; 4  ; 2   ; 0     ; 16         ;  4           ;  12
+2019;Champions-League    ; 2      ;Atalanta BC                   ; 6   ; 2  ; 1   ; 3     ;  8         ; 12           ;  -4
+2019;Champions-League    ; 3      ;FK Shakhtar Donetsk           ; 6   ; 1  ; 3   ; 2     ;  8         ; 13           ;  -5
+2019;Champions-League    ; 4      ;GNK Dinamo Zagreb             ; 6   ; 1  ; 2   ; 3     ; 10         ; 13           ;  -3
+2019;Champions-League    ; 1      ;Juventus FC                   ; 6   ; 5  ; 1   ; 0     ; 12         ;  4           ;   8
+2019;Champions-League    ; 2      ;Club Atlético de Madrid       ; 6   ; 3  ; 1   ; 2     ;  8         ;  5           ;   3
+2019;Champions-League    ; 3      ;Bayer 04 Leverkusen           ; 6   ; 2  ; 0   ; 4     ;  5         ;  9           ;  -4
+2019;Champions-League    ; 4      ;FK Lokomotiv Moskva           ; 6   ; 1  ; 0   ; 5     ;  4         ; 11           ;  -7
+2019;Champions-League    ; 1      ;Liverpool FC                  ; 6   ; 4  ; 1   ; 1     ; 13         ;  8           ;   5
+2019;Champions-League    ; 2      ;SSC Napoli                    ; 6   ; 3  ; 3   ; 0     ; 11         ;  4           ;   7
+2019;Champions-League    ; 3      ;FC Red Bull Salzburg          ; 6   ; 2  ; 1   ; 3     ; 16         ; 13           ;   3
+2019;Champions-League    ; 4      ;KRC Genk                      ; 6   ; 0  ; 1   ; 5     ;  5         ; 20           ; -15
+2019;Champions-League    ; 1      ;FC Barcelona                  ; 6   ; 4  ; 2   ; 0     ;  9         ;  4           ;   5
+2019;Champions-League    ; 2      ;BV Borussia 09 Dortmund       ; 6   ; 3  ; 1   ; 2     ;  8         ;  8           ;   0
+2019;Champions-League    ; 3      ;FC Internazionale Milano      ; 6   ; 2  ; 1   ; 3     ; 10         ;  9           ;   1
+2019;Champions-League    ; 4      ;SK Slavia Praha               ; 6   ; 0  ; 2   ; 4     ;  4         ; 10           ;  -6
+2019;Champions-League    ; 1      ;RB Leipzig                    ; 6   ; 3  ; 2   ; 1     ; 10         ;  8           ;   2
+2019;Champions-League    ; 2      ;Olympique Lyonnais            ; 6   ; 2  ; 2   ; 2     ;  9         ;  8           ;   1
+2019;Champions-League    ; 3      ;Sport Lisboa e Benfica        ; 6   ; 2  ; 1   ; 3     ; 10         ; 11           ;  -1
+2019;Champions-League    ; 4      ;FK Zenit Sankt-Petersburg     ; 6   ; 2  ; 1   ; 3     ;  7         ;  9           ;  -2
+2019;Champions-League    ; 1      ;Valencia CF                   ; 6   ; 3  ; 2   ; 1     ;  9         ;  7           ;   2
+2019;Champions-League    ; 2      ;Chelsea FC                    ; 6   ; 3  ; 2   ; 1     ; 11         ;  9           ;   2
+2019;Champions-League    ; 3      ;AFC Ajax                      ; 6   ; 3  ; 1   ; 2     ; 12         ;  6           ;   6
+2019;Champions-League    ; 4      ;Lille OSC                     ; 6   ; 0  ; 1   ; 5     ;  4         ; 14           ; -10

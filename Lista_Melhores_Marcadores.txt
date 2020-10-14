@@ -1,0 +1,71 @@
+Year;League              ;Position;Player Name                   ;Team                          ;Goals
+2020;Premiere League     ; 1      ;Dominic Calvert-Lewin         ;Everton FC                    ; 6
+2020;Premiere League     ; 2      ;Son Heungmin                  ;Tottenham Hotspur FC          ; 6
+2020;Premiere League     ; 3      ;Mohamed Salah                 ;Liverpool FC                  ; 5
+2020;Premiere League     ; 4      ;Jamie Vardy                   ;Leicester City FC             ; 5
+2020;Premiere League     ; 5      ;Callum Wilson                 ;Newcastle United FC           ; 4
+2020;Premiere League     ; 6      ;Neal Maupay                   ;Brighton & Hove Albion FC     ; 4
+2020;Premiere League     ; 7      ;Alexandre Lacazette           ;Arsenal FC                    ; 3
+2020;Premiere League     ; 8      ;Wilfried Zaha                 ;Crystal Palace FC             ; 3
+2020;Premiere League     ; 9      ;Patrick Bamford               ;Leeds United FC               ; 3
+2020;Premiere League     ;10      ;Jorginho                      ;Chelsea FC                    ; 3
+2020;Ligue 1             ; 1      ;Ibrahima Niané                ;FC Metz                       ; 6
+2020;Ligue 1             ; 2      ;Gaël Kakuta                   ;Racing Club de Lens           ; 4
+2020;Ligue 1             ; 3      ;Memphis Depay                 ;Olympique Lyonnais            ; 4
+2020;Ligue 1             ; 4      ;Ignatius Ganago               ;Racing Club de Lens           ; 4
+2020;Ligue 1             ; 5      ;Ismaël Traoré                 ;Angers SCO                    ; 3
+2020;Ligue 1             ; 6      ;Boulaye Dia                   ;Stade de Reims                ; 3
+2020;Ligue 1             ; 7      ;Yoane Wissa                   ;FC Lorient                    ; 3
+2020;Ligue 1             ; 8      ;Romain Hamouma                ;AS Saint-Étienne              ; 3
+2020;Ligue 1             ; 9      ;Zinedine Ferhat               ;Nîmes Olympique               ; 3
+2020;Ligue 1             ;10      ;Sehrou Guirassy               ;Stade Rennais FC 1901         ; 3
+2020;1. Bundesliga       ; 1      ;Andrej Kramarić               ;TSG 1899 Hoffenheim           ; 6
+2020;1. Bundesliga       ; 2      ;Robert Lewandowski            ;FC Bayern München             ; 5
+2020;1. Bundesliga       ; 3      ;Erling Haaland                ;BV Borussia 09 Dortmund       ; 4
+2020;1. Bundesliga       ; 4      ;Serge Gnabry                  ;FC Bayern München             ; 3
+2020;1. Bundesliga       ; 5      ;Sasa Kalajdzic                ;VfB Stuttgart                 ; 3
+2020;1. Bundesliga       ; 6      ;Niclas Füllkrug               ;SV Werder Bremen              ; 3
+2020;1. Bundesliga       ; 7      ;André Silva                   ;Eintracht Frankfurt           ; 2
+2020;1. Bundesliga       ; 8      ;Nils Petersen                 ;SC Freiburg                   ; 2
+2020;1. Bundesliga       ; 9      ;Silas Wamangituka             ;VfB Stuttgart                 ; 2
+2020;1. Bundesliga       ;10      ;Matheus Cunha                 ;Hertha BSC                    ; 2
+2020;Serie A             ; 1      ;Alejandro Gómez               ;Atalanta BC                   ; 4
+2020;Serie A             ; 2      ;Cristiano Ronaldo             ;Juventus FC                   ; 3
+2020;Serie A             ; 3      ;Lautaro Martínez              ;FC Internazionale Milano      ; 3
+2020;Serie A             ; 4      ;Romelu Lukaku                 ;FC Internazionale Milano      ; 3
+2020;Serie A             ; 5      ;Andrey Galabinov              ;Spezia Calcio                 ; 3
+2020;Serie A             ; 6      ;Francesco Caputo              ;US Sassuolo Calcio            ; 3
+2020;Serie A             ; 7      ;Gaetano Castrovilli           ;ACF Fiorentina                ; 2
+2020;Serie A             ; 8      ;Dries Mertens                 ;SSC Napoli                    ; 2
+2020;Serie A             ; 9      ;Zlatan Ibrahimovic            ;AC Milan                      ; 2
+2020;Serie A             ;10      ;Andrea Belotti                ;Torino FC                     ; 2
+2020;Primeira Liga       ; 1      ;Rodrigo Pinho                 ;CS Marítimo                   ; 4
+2020;Primeira Liga       ; 2      ;Thiago Santana                ;CD Santa Clara                ; 3
+2020;Primeira Liga       ; 3      ;Haris Seferović               ;Sport Lisboa e Benfica        ; 3
+2020;Primeira Liga       ; 4      ;Gian-Luca Waldschmidt         ;Sport Lisboa e Benfica        ; 2
+2020;Primeira Liga       ; 5      ;Gustavo Sauerbeck             ;Boavista FC                   ; 2
+2020;Primeira Liga       ; 6      ;Brayan Riascos                ;CD Nacional                   ; 2
+2020;Primeira Liga       ; 7      ;Alex Telles                   ;FC Porto                      ; 2
+2020;Primeira Liga       ; 8      ;Sergio Oliveira               ;FC Porto                      ; 2
+2020;Primeira Liga       ; 9      ;Fábio Abreu                   ;Moreirense FC                 ; 2
+2020;Primeira Liga       ;10      ;Moussa Maréga                 ;FC Porto                      ; 2
+2020;Primera Division    ; 1      ;Gerard Moreno                 ;Villarreal CF                 ; 3
+2020;Primera Division    ; 2      ;José Luis Morales             ;Levante UD                    ; 3
+2020;Primera Division    ; 3      ;Maxi Gómez                    ;Valencia CF                   ; 3
+2020;Primera Division    ; 4      ;Paco Alcácer                  ;Villarreal CF                 ; 3
+2020;Primera Division    ; 5      ;Iago Aspas                    ;RC Celta de Vigo              ; 3
+2020;Primera Division    ; 6      ;Ansu Fati                     ;FC Barcelona                  ; 3
+2020;Primera Division    ; 7      ;Tello                         ;Real Betis Balompié           ; 2
+2020;Primera Division    ; 8      ;Roberto López                 ;Real Sociedad de Fútbol       ; 2
+2020;Primera Division    ; 9      ;Manu Vallejo                  ;Valencia CF                   ; 2
+2020;Primera Division    ;10      ;Kike García                   ;SD Eibar                      ; 2
+2020;Champions-League    ; 1      ;Gerson Rodrigues              ;FK Dynamo Kyiv                ; 2
+2020;Champions-League    ; 2      ;Dan Biton                     ;Maccabi Tel Aviv FC           ; 2
+2020;Champions-League    ; 3      ;Myrto Uzuni                   ;Ferencvárosi TC               ; 2
+2020;Champions-League    ; 4      ;Anders Dreyer                 ;FC Midtjylland                ; 2
+2020;Champions-League    ; 5      ;Rémy Cabella                  ;FK Krasnodar                  ; 2
+2020;Champions-League    ; 6      ;Dominik Szoboszlai            ;FC Red Bull Salzburg          ; 2
+2020;Champions-League    ; 7      ;Carlos De Pena                ;FK Dynamo Kyiv                ; 2
+2020;Champions-League    ; 8      ;Patson Daka                   ;FC Red Bull Salzburg          ; 2
+2020;Champions-League    ; 9      ;Mykola Shaparenko             ;FK Dynamo Kyiv                ; 1
+2020;Champions-League    ;10      ;Andrija Živković              ;PAOK FC                       ; 1
